@@ -1,0 +1,18 @@
+body{
+	background-image: url('foto.jpg');
+}
+
+.container{
+	border: 1px solid white;
+	background-color: black;
+	opacity: 0.8;
+	color:white;
+}
+
+.row:hover{
+	background-color: skyblue;
+	color:black;
+}
+
+
+
